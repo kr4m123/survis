@@ -140,6 +140,18 @@ define({
 		},
 		"data_used:histological": {
 			"description": "Histological photos are microscopic anatomy pictures of biological tissues"
+		},
+		"application:n/a": {
+			"description": "Not applicable for this paper"
+		},
+		"ai_used:n/a": {
+			"description": "Not applicable for this paper"
+		},
+		"xai_used:n/a": {
+			"description": "Not applicable for this paper"
+		},
+		"data_used:n/a": {
+			"description": "Not applicable for this paper"
 		}
 	}
 });

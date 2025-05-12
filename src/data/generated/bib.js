@@ -80,7 +80,7 @@
         "file": "Full Text PDF:C\\:\\\\Users\\\\markf\\\\Zotero\\\\storage\\\\AA9YJIHS\\\\Hossain et al. - 2025 - Explainable AI for Medical Data Current Methods, Limitations, and Future Directions.pdf:application/pdf",
         "issn": "0360-0300",
         "journal": "ACM Comput. Surv.",
-        "keywords": "type/focus:literature_survey/review",
+        "keywords": "type/focus:literature_survey/review, application:n/a, ai_used:n/a, xai_used:n/a, data_used:n/a",
         "month": "feb,",
         "number": "6",
         "pages": "148:1--148:46",
