@@ -73,6 +73,24 @@
         "volume": "19",
         "year": "2024"
     },
+    "hossain_explainable_2025": {
+        "abstract": "With the power of parallel processing, large datasets, and fast computational resources, deep neural networks (DNNs) have outperformed highly trained and experienced human experts in medical applications. However, the large global community of healthcare professionals, many of whom routinely face potentially life-or-death outcomes with complex medicolegal consequences, have yet to embrace this powerful technology. The major problem is that most current AI solutions function as a metaphorical black-box positioned between input data and output decisions without a rigorous explanation for their internal processes. With the goal of enhancing trust and improving acceptance of artificial intelligence\u2013 (AI) based technology in clinical medicine, there is a large and growing effort to address this challenge using eXplainable AI (XAI), a set of techniques, strategies, and algorithms with an explicit focus on explaining the \u201chows and whys\u201d of DNNs. Here, we provide a comprehensive review of the state-of-the-art XAI techniques concerning healthcare applications and discuss current challenges and future directions. We emphasize the strengths and limitations of each category, including image, tabular, and textual explanations, and explore a range of evaluation metrics for assessing the effectiveness of XAI solutions. Finally, we highlight promising opportunities for XAI research to enhance the acceptance of DNNs by the healthcare community.",
+        "author": "Hossain, Md Imran and Zamzmi, Ghada and Mouton, Peter R. and Salekin, Md Sirajus and Sun, Yu and Goldgof, Dmitry",
+        "doi": "10.1145/3637487",
+        "file": "Full Text PDF:C\\:\\\\Users\\\\markf\\\\Zotero\\\\storage\\\\AA9YJIHS\\\\Hossain et al. - 2025 - Explainable AI for Medical Data Current Methods, Limitations, and Future Directions.pdf:application/pdf",
+        "issn": "0360-0300",
+        "journal": "ACM Comput. Surv.",
+        "month": "feb,",
+        "number": "6",
+        "pages": "148:1--148:46",
+        "shorttitle": "Explainable {AI} for {Medical} {Data}",
+        "title": "Explainable {AI} for {Medical} {Data}: {Current} {Methods}, {Limitations}, and {Future} {Directions}",
+        "type": "article",
+        "url": "https://dl.acm.org/doi/10.1145/3637487",
+        "urldate": "2025-05-12",
+        "volume": "57",
+        "year": "2025"
+    },
     "hossain_vision_2024": {
         "abstract": "The abnormal growth of malignant or nonmalignant tissues in the brain causes long-term damage to the brain. Magnetic resonance imaging (MRI) is one of the most common methods of detecting brain tumors. To determine whether a patient has a brain tumor, MRI filters are physically examined by experts after they are received. It is possible for MRI images examined by different specialists to produce inconsistent results since professionals formulate evaluations differently. Furthermore, merely identifying a tumor is not enough. To begin treatment as soon as possible, it is equally important to determine the type of tumor the patient has. In this paper, we consider the multiclass classification of brain tumors since significant work has been done on binary classification. In order to detect tumors faster, more unbiased, and reliably, we investigated the performance of several deep learning (DL) architectures including Visual Geometry Group 16 (VGG16), InceptionV3, VGG19, ResNet50, InceptionResNetV2, and Xception. Following this, we propose a transfer learning(TL) based multiclass classification model called IVX16 based on the three best-performing TL models. We use a dataset consisting of a total of 3264 images. Through extensive experiments, we achieve peak accuracy of 95.11\\%, 93.88\\%, 94.19\\%, 93.88\\%, 93.58\\%, 94.5\\%, and 96.94\\% for VGG16, InceptionV3, VGG19, ResNet50, InceptionResNetV2, Xception, and IVX16, respectively. Furthermore, we use Explainable AI to evaluate the performance and validity of each DL model and implement recently introduced Vison Transformer (ViT) models and compare their obtained output with the TL and ensemble model.",
         "author": "Hossain, Shahriar and Chakrabarty, Amitabha and Gadekallu, Thippa Reddy and Alazab, Mamoun and Piran, Md. Jalil",
