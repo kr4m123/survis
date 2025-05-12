@@ -1,17 +1,19 @@
-const userDefinedTagCategories = {
-	"Type/Focus": {
-		"description": "The type/focus of the paper"
-	},
-	"AI Used": {
-		"description": "The AI technique used in the paper"
+define({
+	tagCategories: {
+		"type/focus": {
+			"description": "The type/focus of the paper"
+		},
+		"ai_used": {
+			"description": "The AI technique used in the paper"
+		},
+		"xai_used": {
+			"description": "The XAI technique/s used in the paper"
+		},
+		"application": {
+			"description": "What domain the AI/XAI was applied to"
+		},
+		"data_used": {
+			"description": "The data used in the paper"
+		}
 	}
-	"XAI Used": {
-		"description": "The XAI technique/s used in the paper"
-	},
-	"Application": {
-		"description": "What domain the AI/XAI was applied to"
-	}
-	"Data Used": {
-		"description": "The data used in the paper"
-	}
-}
+});
