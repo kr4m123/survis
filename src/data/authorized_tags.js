@@ -1,5 +1,5 @@
 const userDefinedAuthorizedTags = {
-	"Paper Type/Focus": {
+	"Paper Category": {
 		"description": "The type/focus of the paper"
 	},
 	"Literature Review/Survey": {
