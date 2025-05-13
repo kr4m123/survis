@@ -9,7 +9,7 @@ define({
 		"type/focus:conceptual_(multiple_xai)": {
 			"description": "Papers that utilise multiple XAI techniques together"
 		},
-		"type/focus:comparison_of_xai": {
+		"type/focus:conceptual_(comparison_of_xai)": {
 			"description": "Papers that compare XAI techniques for the same application"
 		},
 		"type/focus:applied": {
@@ -61,7 +61,7 @@ define({
 			"description": "Textual XAI techniques are user-friendly approaches that describe the output of a machine learning model through text"
 		},
 		"xai_used:grad-cam": {
-			"description": "Gradient-weighted Class Activation Map (GRAD-CAM), a variant of CAMs, that create an activation map, localisaing the decision-making features of an image"
+			"description": "Gradient-weighted Class Activation Map (GRAD-CAM), a variant of CAMs, that create an activation map, localising the decision-making features of an image"
 		},
 		"xai_used:agrad": {
 			"description": "Attention gradient (AGRAD) is a model-specific, self-explaining XAI method based on attention gradients"
@@ -70,13 +70,13 @@ define({
 			"description": "Concept Localisation Map (CLM) is a perturbation-based concept localisation XAI method that highlights the regions connected with learning concepts, generating visual explanations"
 		},
 		"xai_used:tcav": {
-			"description": "Testing with Concept Activation Vectors (TCAV) is a global XAI explanation for neural networks"
+			"description": "Testing with Concept Activation Vectors (TCAV) is a global XAI explanation that uses directional derivatives to quantify the model prediction’s sensitivity to some root high-level concept"
 		},
 		"xai_used:lisa": {
 			"description": "LISA is a suite of explainble AI methods including LIME (Local Interpretable Model-agnostic Explanations), integrated gradients, anchors, and SHAP (SHapley Additive exPlanations)"
 		},
 		"xai_used:integrated_gradients": {
-			"description": "Explainable AI technique that explains the relationship between a model's predictions in terms of its features"
+			"description": "Explainable AI technique that defines attribution values for each feature by taking the integral of the model’s gradients"
 		},
 		"xai_used:anchors": {
 			"description": "The anchors method is an explainable AI technique that explains individual predictions of a classification model by finding decision rules that \"anchor\" the prediction sufficiently"
@@ -164,6 +164,15 @@ define({
 		},
 		"ai_used:pcbm": {
 			"description": "Progressive Concept Bottleneck Model (PCBM) is a deep learning intrinsically explainable model that provides two layers of explanation: visual feedback and property concepts"
+		},
+		"xai_type:attribution-based": {
+			"description": "Explanations quantify the impact (attribution) of each feature on a model's prediction"
+		},
+		"xai_used:concept-based": {
+			"description": "Explanations attempt to cover \"concepts\" of a model's predictions, grouping predictions based on their resemblance"
+		},
+		"xai_used:n/a": {
+			"description": "Not applicable for this paper"
 		}
 	}
 });
