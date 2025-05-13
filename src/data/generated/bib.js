@@ -21,7 +21,7 @@
         "booktitle": "2023 26th {International} {Conference} on {Computer} and {Information} {Technology} ({ICCIT})",
         "doi": "10.1109/ICCIT60459.2023.10441124",
         "file": "Snapshot:C\\:\\\\Users\\\\markf\\\\Zotero\\\\storage\\\\HGGEGM7E\\\\10441124.html:text/html",
-        "keywords": "application:bone_fractures, xai_used:saliency_map, type/focus:multiple_xai, ai_used:vgg-16, ai_used:vgg-19, ai_used:densenet121, ai_used:densenet169, data_used:x-ray, data_used:photos",
+        "keywords": "application:bone_fractures, xai_used:saliency_map, xai_used:grad-cam, type/focus:multiple_xai, ai_used:vgg-16, ai_used:vgg-19, ai_used:densenet121, ai_used:densenet169, data_used:x-ray, data_used:photos",
         "month": "dec,",
         "pages": "1--6",
         "publisher": "IEEE",
