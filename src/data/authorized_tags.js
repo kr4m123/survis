@@ -3,14 +3,17 @@ define({
 		"type/focus:literature_survey/review": {
 			"description": "Papers that perform a literature survey/review of XAI in healthcare"
 		},
-		"type/focus:single_xai": {
+		"type/focus:conceptual_(single_xai)": {
 			"description": "Papers that focus on one XAI technique"
 		},
-		"type/focus:multiple_xai": {
+		"type/focus:conceptual_(multiple_xai)": {
 			"description": "Papers that utilise multiple XAI techniques together"
 		},
 		"type/focus:comparison_of_xai": {
 			"description": "Papers that compare XAI techniques for the same application"
+		},
+		"type/focus:applied": {
+			"description": "Papers that applied XAI to models used in the real world"
 		},
 		"ai_used:vgg-16": {
 			"description": "A convolutional neural network (CNN) for image classification, part of the series of VGGNet models"
@@ -152,6 +155,15 @@ define({
 		},
 		"data_used:n/a": {
 			"description": "Not applicable for this paper"
+		},
+		"application:fetal_growth": {
+			"description": "Paper applied AI/XAI to detecting and classifying fetal growth"
+		},
+		"xai_used:pcbm": {
+			"description": "Progressive Concept Bottleneck Model (PCBM) is a deep learning intrinsically explainable model that provides two layers of explanation: visual feedback and property concepts"
+		},
+		"ai_used:pcbm": {
+			"description": "Progressive Concept Bottleneck Model (PCBM) is a deep learning intrinsically explainable model that provides two layers of explanation: visual feedback and property concepts"
 		}
 	}
 });
