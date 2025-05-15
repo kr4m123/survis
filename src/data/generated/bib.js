@@ -160,7 +160,7 @@
         "file": "ScienceDirect Snapshot:C\\:\\\\Users\\\\markf\\\\Zotero\\\\storage\\\\HYRNVI7S\\\\S0169260722000050.html:text/html;Submitted Version:C\\:\\\\Users\\\\markf\\\\Zotero\\\\storage\\\\LWZTHNLN\\\\Lucieri et al. - 2022 - ExAID A multimodal explanation framework for computer-aided diagnosis of skin lesions.pdf:application/pdf",
         "issn": "0169-2607",
         "journal": "Computer Methods and Programs in Biomedicine",
-        "keywords": "xai_type:attribution-based, xai_type:concept-based, application:skin_cancer, xai_used:exaid, xai_used:textual, xai_used:clm, xai_used:tcav, type/focus:conceptual_(multiple_xai), ai_used:seresnext, data_used:textual, data_used:photos",
+        "keywords": "xai_type:concept-based, application:skin_cancer, xai_used:exaid, xai_used:textual, xai_used:clm, xai_used:tcav, type/focus:conceptual_(multiple_xai), ai_used:seresnext, data_used:textual, data_used:photos",
         "month": "mar,",
         "pages": "106620",
         "series": "CPMB",
