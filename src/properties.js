@@ -37,10 +37,6 @@ var tagCloudOptions = [{
     field: 'author',
     title: 'Authors',
     minTagFrequency: 1
-}, {
-    field: 'series',
-    title: 'Series',
-    minTagFrequency: 1
 }];
 
 /**
