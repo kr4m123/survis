@@ -60,7 +60,7 @@
         "file": "Full Text PDF:C\\:\\\\Users\\\\markf\\\\Zotero\\\\storage\\\\IFH2XNDY\\\\Hicks et al. - 2024 - Visual explanations for polyp detection How medical doctors assess intrinsic versus extrinsic expla.pdf:application/pdf",
         "issn": "1932-6203",
         "journal": "PLOS ONE",
-        "keywords": "xai_type:attribution-based, application:polyps, xai_used:grad-cam, xai_used:captum, type/focus:applied, ai_used:resnet, data_used:photos",
+        "keywords": "xai_type:attribution-based, application:polyps, xai_used:grad-cam, xai_used:captum, xai_used:shap, type/focus:applied, ai_used:resnet, data_used:photos",
         "language": "en",
         "month": "may,",
         "note": "Publisher: Public Library of Science",
